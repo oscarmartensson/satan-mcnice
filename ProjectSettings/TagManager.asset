@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rocks
+  - Tree
+  - Bushes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockPlayer
+  - Ground
+  - Interactable
+  - Units
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background_0
+    uniqueID: 1441389749
+    locked: 0
+  - name: Background_1
+    uniqueID: 4287824145
+    locked: 0
+  - name: BackGround_2
+    uniqueID: 2785310827
+    locked: 0
+  - name: Background_3
+    uniqueID: 79909189
+    locked: 0
+  - name: Playerground
+    uniqueID: 4082771831
+    locked: 0
+  - name: Foreground_1
+    uniqueID: 4121581165
+    locked: 0
+  - name: Foreground_2
+    uniqueID: 2030725935
+    locked: 0
+  - name: ForeGround_3
+    uniqueID: 994298393
+    locked: 0
